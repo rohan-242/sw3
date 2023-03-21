@@ -1,0 +1,101 @@
+commit aa49f6d50010df59f54e87474e16307843560c61
+Author: rohan-242 <rohan24022003@gmail.com>
+Date:   Tue Mar 21 13:43:42 2023 +0530
+
+    re-adding file2
+
+diff --git a/text2.txt b/text2.txt
+new file mode 100644
+index 0000000..f01378c
+--- /dev/null
++++ b/text2.txt
+@@ -0,0 +1 @@
++2025 dream job
+
+commit 2b73660f4f0cfe3bfe62571b8814e4b526de90b6
+Author: rohan-242 <rohan24022003@gmail.com>
+Date:   Tue Mar 21 13:39:07 2023 +0530
+
+    text2 file deleted
+
+diff --git a/text1.txt b/text1.txt
+index 50f62f8..0234c7c 100644
+--- a/text1.txt
++++ b/text1.txt
+@@ -1,5 +1,3 @@
+-rohan tomar 
+-b.tect cse
+-restro
+-movie
++rohan tomar b.tect cse restro movie
++color
+ 
+diff --git a/text2.txt b/text2.txt
+deleted file mode 100644
+index f01378c..0000000
+--- a/text2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 dream job
+
+commit 90ba7c44fe40c8738a2a53c8cb15c44d1b09862d
+Author: rohan-242 <rohan24022003@gmail.com>
+Date:   Tue Mar 21 13:34:31 2023 +0530
+
+    added job and passing year
+
+diff --git a/text2.txt b/text2.txt
+new file mode 100644
+index 0000000..f01378c
+--- /dev/null
++++ b/text2.txt
+@@ -0,0 +1 @@
++2025 dream job
+
+commit ea1789b44c610c7df1b943e419d82d70fb91be93
+Author: rohan-242 <rohan24022003@gmail.com>
+Date:   Tue Mar 21 13:20:37 2023 +0530
+
+    added favorite restaurant and movie
+
+diff --git a/text1.txt b/text1.txt
+index 19e5a7a..50f62f8 100644
+--- a/text1.txt
++++ b/text1.txt
+@@ -1,2 +1,5 @@
+-rohan tomar b.tect cse
++rohan tomar 
++b.tect cse
++restro
++movie
+ 
+
+commit d1c8cb88f06a2e7639fd0409748b0161e46e3916
+Author: rohan-242 <rohan24022003@gmail.com>
+Date:   Tue Mar 21 13:16:50 2023 +0530
+
+    now it has my major
+
+diff --git a/text1.txt b/text1.txt
+index d41c225..19e5a7a 100644
+--- a/text1.txt
++++ b/text1.txt
+@@ -1,2 +1,2 @@
+-rohan tomar 27195
++rohan tomar b.tect cse
+ 
+
+commit be2984b56037520aaadb3ebb59144904e724c36a
+Author: rohan-242 <rohan24022003@gmail.com>
+Date:   Tue Mar 21 13:09:33 2023 +0530
+
+    data saved
+
+diff --git a/text1.txt b/text1.txt
+new file mode 100644
+index 0000000..d41c225
+--- /dev/null
++++ b/text1.txt
+@@ -0,0 +1,2 @@
++rohan tomar 27195
++
