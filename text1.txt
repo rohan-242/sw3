@@ -1,5 +1,3 @@
-rohan tomar 
-b.tect cse
-restro
-movie
+rohan tomar b.tect cse restro movie
+color
 
